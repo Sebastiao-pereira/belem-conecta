@@ -55,7 +55,7 @@ body {
     display: flex;
     align-items: center;
     padding: 80px 8%;
-    background-image: url("imagens/belem-hero.jpeg");
+    background-image: url("belem-hero.jpeg");
     background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
